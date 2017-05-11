@@ -6,3 +6,5 @@ url: http://htmlreference.io
 markdown: kramdown
 permalink: pretty
 exclude: ['node_modules']
+
+theme: jekyll-theme-cayman
